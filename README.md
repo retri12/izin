@@ -1,0 +1,2 @@
+# izin
+IZIN SCRIPT
